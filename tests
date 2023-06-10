@@ -1,0 +1,38 @@
+./SBMLparser
+
+./SBMLparser example.sbml
+
+./SBMLparser syrtgdf
+
+./SBMLparser example.sbml -i
+
+./SBMLparser examzrtgezr -i
+
+./SBMLparser example.sbml -i Cytosol
+
+./SBMLparser example.sbml -i drthfdrhtf
+
+./SBMLparser ehrtsgzyzgres -i eythdfgsrth
+
+./SBMLparser example.sbml -i Compound1851
+
+./SBMLparser example.sbml -i Compound414
+
+./SBMLparser example.sbml -i Compound1083
+
+./SBMLparser example.sbml -i Compound1034
+
+./SBMLparser dhdrtthrsstr -i Compound1851
+
+./SBMLparser example.sbml -i Reaction1232
+
+./SBMLparser example.sbml -i Reaction1232 -e
+
+./SBMLparser kjhgfd -i Reaction1232 -e
+
+./SBMLparser example.sbml -i Reaction1232 -h
+
+./SBMLparser example.sbml -i Reaction1232 -e -e
+
+./SBMLparser example.sbml -i htrgsd -e
+
